@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "MaksPV"
+            }
+        ],
+        "Category": "Fun and Games",
+        "Description": "PDA from S.T.A.L.K.E.R. with embedded web browser",
+        "Icon": "emblem-favorite-symbolic",
+        "Id": "ru.makspv.stalkerpda",
+        "License": "GPL3",
+        "Name": "Stalker PDA Browser",
+        "BugReportUrl": "https://github.com/MaksPV/stalkerpda-plasma/issues",
+        "Website": "https://github.com/MaksPV/stalkerpda-plasma",
+        "Version": "0.1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
