@@ -42,8 +42,7 @@ Of course! Here is the corrected and translated installation instruction for you
 
 4.  **Add the Widget:**
     *   Right-click on your desktop or panel -> `Add Widget...`
-    *   Find "**STALKER PDA**" in the list and drag it onto your desktop **or panel (taskbar)**.
-    *   On the desktop it shows the full PDA. In the panel it shows a small PDA icon — click it to open the full PDA in a popup.
+    *   Find "**STALKER PDA**" in the list and drag it onto your desktop.
     *   Right-click on the widget -> `Configure STALKER PDA...` to set your desired URL.
 
 ### To update to a newer version:
