@@ -14,7 +14,7 @@
         "Name": "Stalker PDA Browser",
         "BugReportUrl": "https://github.com/MaksPV/stalkerpda-plasma/issues",
         "Website": "https://github.com/MaksPV/stalkerpda-plasma",
-        "Version": "0.1.0"
+        "Version": "0.2.0"
     },
     "X-Plasma-API-Minimum-Version": "6.0"
 }
